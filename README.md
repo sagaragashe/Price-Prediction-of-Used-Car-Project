@@ -1,18 +1,20 @@
 # Price-Prediction-of-Used-Car-Project
 
+The project will develop a machine learning model to predict the price of used cars. The model will be trained on a large dataset of historical used car sales data and evaluated on a held-out test set. The model will then be deployed to production so that it can be used by users to predict the price of used cars. 
+
+**The objectives of the project are as follows:**
+
+•	To develop an efficient and effective model which predicts the price of a used car according to user’s inputs.  
+
+•	To develop a model that saves time for both buyers and sellers.
+
+•	To develop a web application and takes input from the user and predicts the price.
+
+•	The model that is being built must be feature based i.e., feature wise prediction must be possible. 
 
 
+**Requirements**
 
-
-
-Requirements Specifications
-
-**Hardware**
-
-1.	Processor - Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz   2.90 GHz
-2.	RAM: Minimum 4 GB
-Recommended: 8 GB
-3.	Hard Disk: Minimum 1 TB
 
 **Software**
 
@@ -23,13 +25,13 @@ Recommended: 8 GB
 
 **Libraries**
 
-NumPy: NumPy is a library for scientific computing with Python. It provides a high-performance multidimensional array object, along with a large collection of mathematical functions that operate on these arrays. NumPy is essential for any machine learning project, including car price prediction.
-   
-Pandas: Pandas is a library for data analysis and manipulation with Python. It provides high-level data structures and operations for working with tabular data in Python. Pandas is another essential library for car price prediction, as it allows you to easily clean, prepare, and analyze your data.
+**NumPy:** 
 
-Scikit-learn : Scikit-learn is a machine learning library for Python. It provides a wide range of machine learning algorithms for classification, regression, clustering, and dimensionality reduction. Scikit-learn is the most popular machine learning library for Python, and it is widely used in car price prediction projects.
+**Pandas:**
 
-Matplotlib: Matplotlib is a library for data visualization in Python. It provides a wide range of tools for creating charts and graphs. Matplotlib is useful for car price prediction projects, as it allows you to visualize your data and identify patterns.
+**Scikit-learn :** 
 
-Flask: A free, open-source Python web framework. It is known for its simplicity and flexibility.
+**Matplotlib:** 
+
+**Flask:** 
 
