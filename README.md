@@ -25,13 +25,13 @@ The project will develop a machine learning model to predict the price of used c
 
 **Libraries**
 
-**NumPy
+NumPy
 
-**Pandas
+Pandas
 
-**Scikit-learn
+Scikit-learn
 
-**Matplotlib
+Matplotlib
 
-**Flask
+Flask
 
